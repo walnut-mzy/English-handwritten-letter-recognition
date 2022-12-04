@@ -22,5 +22,5 @@
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/5fd0dc0d1c6c468d9d0a6176d7abd203.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzUxMzI0NjYy,size_16,color_FFFFFF,t_70#pic_center)
 这些图片是由0-9到a-z的大写和小写组成的，其中每一个字母是由1000张图片构成的。这个数据集总共由62000张图片，每一类图片都被放在一个单独的文件夹里面有利于训练。
-测试集嘛，作者比较懒，要不从训练集里面分出一部分？狗狗头保命
+测试集嘛，作者比较懒，要不从训练集里面分出一部分？
 手写字母.py是这图片生成的一个脚本，不够了自己生成啦！
